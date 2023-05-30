@@ -1,13 +1,13 @@
 ![MasterHead](https://giffiles.alphacoders.com/207/207978.gif)
 
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate AI developer</h3>
+
 
 
 
 <p align="left"> <a href="https://twitter.com/monact" target="blank"><img src="https://img.shields.io/twitter/follow/monact?logo=twitter&style=for-the-badge" alt="monact" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+
 
 - 📫 How to reach me **https://beacons.ai/vv**
 
